@@ -5,10 +5,10 @@
 - 🇺🇸 Sé hablar español e inglés
 
 Proyectos Actuales:
-AncientMC (Servidor de Minecraft)
+??? (Una herramienta para hacer bots de discord) (Sin nombre)
+??? (Un bot de Minecraft PvP) (Sin nombre)
 
 Metas para los 15:
-Que AncientMC crezca
-Tener una comunidad de Discord
+Aprender más JAVA y NODEJS
 
 Dato curioso: ¿Sabías que este perfil fue creado 25 horas antes de mi cumpleaños?
